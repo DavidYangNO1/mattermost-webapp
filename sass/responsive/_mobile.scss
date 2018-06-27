@@ -710,7 +710,7 @@
                 .modal-image__wrapper {
                     > div {
                         font-size: 12px;
-                        max-width: 70%;
+                        max-width: calc(100% - 10px);
                         min-width: 250px;
                     }
 
